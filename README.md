@@ -11,9 +11,13 @@ Everything you need to construct this pedal yourself should be included in the f
 in this repository are the drilling hole sizes for the pedal enclosure. You should find the following items throughout the 
 repository:
 -LTSPICE simulation of the circuit
+
 -KiCad files of both the schematic and the PCB
+
 -Source files so you can see where I found the circuit design
+
 -List of components/parts necessary for the project
+
 -Wiring schematic(s) for the peripherals (3PDT switch, potentiometer, power supply port, etc.)
 
 This is only my second time building a pedal, so my PCB design is rather amateur-looking.
