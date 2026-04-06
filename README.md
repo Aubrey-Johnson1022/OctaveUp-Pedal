@@ -10,6 +10,7 @@ up one octave.
 Everything you need to construct this pedal yourself should be included in the files. The only things I am NOT going to include
 in this repository are the drilling hole sizes for the pedal enclosure. You should find the following items throughout the 
 repository:
+
 -LTSPICE simulation of the circuit
 
 -KiCad files of both the schematic and the PCB
